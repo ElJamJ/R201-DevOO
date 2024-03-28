@@ -14,6 +14,7 @@
 //
 //}
 
+/*
 import java.util.Scanner;
 
 public class AfficherSaisir {
@@ -26,5 +27,19 @@ public class AfficherSaisir {
 		int n = sc.nextInt();
 		System.out.print("Nombre aléatoire entre 0 et "+n+": ");
 		System.out.printf("%3.1f",(Math.random())*n);
+	}
+}
+*/
+import java.util.Scanner;
+public class AfficherSaisir {
+
+	public static void main(String[] args) {
+		final double PI = 3.141593;
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Bonjour");
+		System.out.printf("\nAffichage formaté : %3.3f", PI);
+		System.out.println("\nEntrez un nombre");
+		int n = sc.nextInt();
+
 	}
 }
