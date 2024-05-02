@@ -17,13 +17,13 @@ public abstract class FormeGeometrique {
 
     public abstract double surface();
 
-    //Méthode pour déplacer la forme géométrique
+    //Methode pour déplacer la forme géométrique
     public void deplacer(double dx, double dy) {
         this.x = dx;
         this.y = dy;
     }
 
-    //Méthode pour afficher les coordonnées de la forme géométrique
+    //Methode pour afficher les coordonnées de la forme géométrique
     public void afficher() {
         System.out.println("Position de la forme geometrique: (" + x + ", " + y + ")");
     }
