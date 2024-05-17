@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51301dd2-46ae-49d9-be86-9a69926aad81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Cercle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rec.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FormeGeometrique.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FormeGeometrique.java" afterDir="false" />
-    </list>
+    <list default="true" id="51301dd2-46ae-49d9-be86-9a69926aad81" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +34,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "Z:/S2/R201-DevOO/EX_02",
+    "last_opened_file_path": "Z:/S2/R201-DevOO/intelliJ/EX_03",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
