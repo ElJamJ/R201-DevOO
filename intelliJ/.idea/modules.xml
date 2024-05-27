@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EX_02/EX_02.iml" filepath="$PROJECT_DIR$/EX_02/EX_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EX_04/EX_04.iml" filepath="$PROJECT_DIR$/EX_04/EX_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EX_05/EX_05.iml" filepath="$PROJECT_DIR$/EX_05/EX_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EX_06/EX_06.iml" filepath="$PROJECT_DIR$/EX_06/EX_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/billalIKotlin/billalIKotlin.iml" filepath="$PROJECT_DIR$/billalIKotlin/billalIKotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intelliJ.iml" filepath="$PROJECT_DIR$/intelliJ.iml" />
+    </modules>
+  </component>
+</project>
