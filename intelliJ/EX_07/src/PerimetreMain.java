@@ -48,7 +48,7 @@ public class PerimetreMain extends JFrame {
                     double perimetre = 2 * (longueur + largeur);
                     resultatLabel.setText(String.valueOf(perimetre));
                 } catch (NumberFormatException ex) {
-                    JOptionPane.showMessageDialog(null, "Veuillez entrer des valeurs numériques valides.", "Erreur", JOptionPane.ERROR_MESSAGE);
+                    JOptionPane.showMessageDialog(null, "Veuillez entrer des valeurs valides", "Erreur", JOptionPane.ERROR_MESSAGE);
                 }
             }
         });
